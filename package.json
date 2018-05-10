@@ -21,7 +21,7 @@
     "@capacitor/cli": "^1.0.0-alpha.33",
     "@capacitor/core": "^1.0.0-alpha.33",
     "@capacitor/ios": "^1.0.0-alpha.33",
-    "phaser": "3.3.0"
+    "phaser": "3.6.0"
   },
   "scripts": {
     "copy": "cp src/index.html www/index.html && cp -fR assets www && cp src/service-worker.js www/service-worker.js && cp src/manifest.json www/manifest.json && cp sw-toolbox.js www/sw-toolbox.js",
